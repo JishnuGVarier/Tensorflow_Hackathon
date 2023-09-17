@@ -65,7 +65,7 @@ If you have any questions, suggestions, or need assistance, please don't hesitat
   - GitHub: [@xrg360](https://github.com/xrg360)
  
 - **Aswin Dev SP**
-  - Email: [aswindevsp@gmail.com](mailto:aswindevsp@gmail.com)
+  - Email: [notaswindevsp@gmail.com](mailto:notaswindevsp@gmail.com)
   - GitHub: [@aswindevsp](https://github.com/aswindevsp)
 
 We're here to help! Feel free to get in touch with any inquiries or feedback.
